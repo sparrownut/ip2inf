@@ -1,0 +1,12 @@
+8.131.70.3
+北京市 阿里巴巴
+dom--weiheyixue.com
+mailnamtel22;OpenSSH;7.4;cpe:/a:openbsd:openssh:7.4
+80;nginx;1.16.1;cpe:/a:igor_sysoev:nginx:1.16.1
+443;nginx;1.16.1;cpe:/a:igor_sysoev:nginx:1.16.1
+3306;MySQL;5.7.33;cpe:/a:mysql:mysql:5.7.33
+8090;未知服务;未知版本;
+9100;未知服务;未知版本;
+9101;未知服务;未知版本;
+9200;Elasticsearch REST API;5.4.0;cpe:/a:elasticsearch:elasticsearch:5.4.0
+

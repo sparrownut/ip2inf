@@ -1,0 +1,75 @@
+http://103.124.72.147:8081,400 The plain HTTP request was sent to HTTPS port
+http://103.124.72.16,Apache2 Ubuntu Default Page: It works
+http://103.124.72.147:8083,400 The plain HTTP request was sent to HTTPS port
+http://103.124.72.147,Apache2 Ubuntu Default Page: It works
+http://103.124.72.179,401 Authorization Required
+http://sh-dev.illumina.nchc.org.tw,Apache2 Ubuntu Default Page: It works
+http://103.124.72.199,IIS Windows Server 199
+http://103.124.72.122,Welcome to nginx!
+http://103.124.72.179:443,400 The plain HTTP request was sent to HTTPS port
+http://103.124.72.195:443,400 The plain HTTP request was sent to HTTPS port
+http://103.124.72.147:443,400 The plain HTTP request was sent to HTTPS port
+http://103.124.72.55:443,400 Bad Request
+http://103.124.72.122:443,400 The plain HTTP request was sent to HTTPS port
+http://ai.taiwan.gov.tw,    AI Taiwan
+http://startup.taiwan.gov.tw,    AI Taiwan
+http://smart.taiwan.gov.tw,    DIGI? Taiwan
+http://digi.taiwan.gov.tw,    DIGI? Taiwan
+http://jitsi.pdis.dev,Jitsi Meet
+http://bio.taiwan.gov.tw,    BioMed Taiwan
+http://103.124.72.147:8082,404 Not Found
+http://103.124.72.126:8000,Error
+http://103.124.72.228,404 Not Found
+http://103.124.72.231,Apache2 Ubuntu Default Page: It works
+http://103.124.72.159:8080,ctbc-efe-frontend
+http://103.124.72.147:8084,404 Not Found
+http://smartai.thinktron.co,Apache2 Ubuntu Default Page: It works
+http://103.124.72.25:1234,404 Not Found
+http://103.124.72.235,IIS Windows Server
+http://103.124.72.118,IIS Windows Server
+http://www.iwork.net.tw,Document
+http://bigeye.iwork.net.tw,網達智能管理平台
+http://ciot.thinktron.co,Grafana
+http://iwork.net.tw,網達智能管理平台
+http://103.124.72.238,Pathology Platform
+http://103.124.72.243,Open Data Cube
+http://103.124.72.159:8888,Epirus | Blockchain Explorer - Web3 Labs
+http://103.124.72.147:8001,SQLite Web: rs2101.db
+http://103.124.72.14,Open Data Cube
+http://103.124.72.159,Welcome to nginx!
+http://103.124.72.171,Welcome to nginx!
+http://103.124.72.243:8080,Jupyter Notebook
+http://103.124.72.147:8080,Jupyter Notebook
+http://103.124.72.170:8888,Jupyter Notebook
+http://103.124.72.14:8080,Jupyter Notebook
+http://103.124.72.24,公路交通標誌標線號誌平台
+http://103.124.72.250,公路交通標誌標線號誌平台
+http://103-124-72-159.twcc.ai,Welcome to nginx!
+http://103.124.72.126,畜禽艦橋指揮系統
+http://103.124.72.24:8080,公路交通標誌標線號誌平台
+http://103.124.72.24:80,公路交通標誌標線號誌平台
+http://103.124.72.122:80,Welcome to nginx!
+http://103.124.72.14:80,Open Data Cube
+http://103.124.72.126:9001,畜禽艦橋指揮系統
+http://atri5g.agri-twin.tw,畜禽艦橋指揮系統
+http://103.124.72.250:80,公路交通標誌標線號誌平台
+http://103.124.72.41:80,網達智能管理平台
+http://atri5g.agri-twin.tw:9001,畜禽艦橋指揮系統
+http://103.124.72.235:80,IIS Windows Server
+http://103.124.72.179:80,401 Authorization Required
+http://103.124.72.238:80,Pathology Platform
+http://103.124.72.243:80,Open Data Cube
+http://103.124.72.228:80,404 Not Found
+http://103.124.72.231:80,Apache2 Ubuntu Default Page: It works
+http://103.124.72.126:80,畜禽艦橋指揮系統
+http://103.124.72.126:8888,Jupyter Server
+http://103.124.72.171:80,Welcome to nginx!
+http://103.124.72.118:80,IIS Windows Server
+http://103.124.72.147:80,Apache2 Ubuntu Default Page: It works
+http://103.124.72.159:80,Welcome to nginx!
+http://103.124.72.16:80,Apache2 Ubuntu Default Page: It works
+http://103.124.72.199:80,IIS Windows Server 199
+http://sh-dev.illumina.nchc.org.tw:80,Apache2 Ubuntu Default Page: It works
+http://startup.taiwan.gov.tw:80,    AI Taiwan
+http://smart.taiwan.gov.tw:80,    DIGI? Taiwan
+http://digi.taiwan.gov.tw:80,    DIGI? Taiwan
