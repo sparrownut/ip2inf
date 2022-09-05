@@ -1,9 +1,12 @@
 import datetime
+import difflib
 import random
 import re
 import socket
-
 import requests
+import urllib3.exceptions
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 def green(s):
@@ -30,25 +33,28 @@ def print_err(s):
     print(blue(str(datetime.datetime.now())) + red(" [-] ") + str(s))
 
 
-def getproxy():
+def getproxy(checkurl='https://www.baidu.com',v = False):
     reet = {}
     r = requests.get('https://free-proxy-list.com/', headers=init_headers).text
     ree = re.findall('alt="(.*)" title="', r)  # 分离代理信息
-    print_inf('连接代理池中')
+    if v:
+        print_inf('连接代理池中')
     st = True
     while st:
         try:
             reet['http'] = ree[random.randint(0, 9)]
             if '200' not in str(
-                    requests.get(url='https://www.baidu.com', proxies=reet, headers=init_headers).status_code):
+                    requests.get(url=checkurl, proxies=reet, headers=init_headers, timeout=5,
+                                 verify=False).status_code):
                 st = False
             break
 
         except Exception:
             # print(reet)
-            print_err('更换')
-
-    print_suc('连接成功')
+            if v:
+                print_err('更换')
+    if v:
+        print_suc('连接成功')
     return reet
 
 
@@ -123,9 +129,11 @@ def getlocalip():
 
 
 # print(getlocalip())
-def fixrespo(text: str):
+def fixrespo(text):
     text = text.replace(' ', '')
     text = text.replace('\n', '')
     text = text.replace('\t', '')
     text = text.replace('\r', '')
     return text
+def str_sim(s1, s2):
+    return difflib.SequenceMatcher(None, s1, s2).quick_ratio()  # 计算文本相似度
