@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/all_web_urls.csv" charset="GBK" />
     <file url="file://$PROJECT_DIR$/all_web_urls_withdescript.txt" charset="GBK" />
-    <file url="PROJECT" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/美国用户_解码.csv" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
   </component>
 </project>

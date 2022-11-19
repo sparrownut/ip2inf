@@ -11,7 +11,7 @@ r_out = ''
 def gethttpips(num: int):
     global r_out
     try:
-        ip = getlocalip()
+        ip = '139.215.45.18'
         step0 = requests.get(
             url='https://wapi.http.linkudp.com/index/index/get_my_balance?neek=2137293&appkey=ced93afdcbe43be6f73cc62819467613').text
         print_inf('余额%s元' % re.findall('"balance":(.*?)}', step0)[0])
@@ -27,8 +27,9 @@ def gethttpips(num: int):
         if r is not None:
             for it in r:  # 逐行
                 if len(it) > 10:
-                    it = it.replace(':', ' ')
-                    r_out += 'http %s' % it
+                    # it = it.replace(':', ' ')
+                    # r_out += 'http %s' % it
+                    it = it.replace(':',' ')
                     print('http %s' % it)
         open('proxy_output.txt', 'w+').write(r_out)
 
@@ -39,7 +40,8 @@ def gethttpips(num: int):
 def getsocks5ips(num: int):
     global r_out
     try:
-        ip = getlocalip()
+        # ip = getlocalip()
+        ip = '139.215.46.247'
         step0 = requests.get(
             url='https://wapi.http.linkudp.com/index/index/get_my_balance?neek=2137293&appkey=ced93afdcbe43be6f73cc62819467613').text
         print_inf('余额%s元' % re.findall('"balance":(.*?)}', step0)[0])
@@ -66,4 +68,4 @@ def getsocks5ips(num: int):
 
 # https://wapi.http.linkudp.com/index/index/save_white?neek=2137293&appkey=ced93afdcbe43be6f73cc62819467613&white=您的ip
 # http://webapi.http.zhimacangku.com/getip?num=10&type=1&pro=&city=0&yys=0&port=1&time=2&ts=0&ys=0&cs=0&lb=1&sb=0&pb=45&mr=1&regions=
-getsocks5ips(200)
+gethttpips(100)

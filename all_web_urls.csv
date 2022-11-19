@@ -1,75 +1,375 @@
-http://103.124.72.147:8081,400 The plain HTTP request was sent to HTTPS port
-http://103.124.72.16,Apache2 Ubuntu Default Page: It works
-http://103.124.72.147:8083,400 The plain HTTP request was sent to HTTPS port
-http://103.124.72.147,Apache2 Ubuntu Default Page: It works
-http://103.124.72.179,401 Authorization Required
-http://sh-dev.illumina.nchc.org.tw,Apache2 Ubuntu Default Page: It works
-http://103.124.72.199,IIS Windows Server 199
-http://103.124.72.122,Welcome to nginx!
-http://103.124.72.179:443,400 The plain HTTP request was sent to HTTPS port
-http://103.124.72.195:443,400 The plain HTTP request was sent to HTTPS port
-http://103.124.72.147:443,400 The plain HTTP request was sent to HTTPS port
-http://103.124.72.55:443,400 Bad Request
-http://103.124.72.122:443,400 The plain HTTP request was sent to HTTPS port
-http://ai.taiwan.gov.tw,    AI Taiwan
-http://startup.taiwan.gov.tw,    AI Taiwan
-http://smart.taiwan.gov.tw,    DIGI? Taiwan
-http://digi.taiwan.gov.tw,    DIGI? Taiwan
-http://jitsi.pdis.dev,Jitsi Meet
-http://bio.taiwan.gov.tw,    BioMed Taiwan
-http://103.124.72.147:8082,404 Not Found
-http://103.124.72.126:8000,Error
-http://103.124.72.228,404 Not Found
-http://103.124.72.231,Apache2 Ubuntu Default Page: It works
-http://103.124.72.159:8080,ctbc-efe-frontend
-http://103.124.72.147:8084,404 Not Found
-http://smartai.thinktron.co,Apache2 Ubuntu Default Page: It works
-http://103.124.72.25:1234,404 Not Found
-http://103.124.72.235,IIS Windows Server
-http://103.124.72.118,IIS Windows Server
-http://www.iwork.net.tw,Document
-http://bigeye.iwork.net.tw,�W�_���ܹ���ƽ̨
-http://ciot.thinktron.co,Grafana
-http://iwork.net.tw,�W�_���ܹ���ƽ̨
-http://103.124.72.238,Pathology Platform
-http://103.124.72.243,Open Data Cube
-http://103.124.72.159:8888,Epirus | Blockchain Explorer - Web3 Labs
-http://103.124.72.147:8001,SQLite Web: rs2101.db
-http://103.124.72.14,Open Data Cube
-http://103.124.72.159,Welcome to nginx!
-http://103.124.72.171,Welcome to nginx!
-http://103.124.72.243:8080,Jupyter Notebook
-http://103.124.72.147:8080,Jupyter Notebook
-http://103.124.72.170:8888,Jupyter Notebook
-http://103.124.72.14:8080,Jupyter Notebook
-http://103.124.72.24,��·��ͨ���I�˾�̖�Iƽ̨
-http://103.124.72.250,��·��ͨ���I�˾�̖�Iƽ̨
-http://103-124-72-159.twcc.ai,Welcome to nginx!
-http://103.124.72.126,����Ş��ָ�]ϵ�y
-http://103.124.72.24:8080,��·��ͨ���I�˾�̖�Iƽ̨
-http://103.124.72.24:80,��·��ͨ���I�˾�̖�Iƽ̨
-http://103.124.72.122:80,Welcome to nginx!
-http://103.124.72.14:80,Open Data Cube
-http://103.124.72.126:9001,����Ş��ָ�]ϵ�y
-http://atri5g.agri-twin.tw,����Ş��ָ�]ϵ�y
-http://103.124.72.250:80,��·��ͨ���I�˾�̖�Iƽ̨
-http://103.124.72.41:80,�W�_���ܹ���ƽ̨
-http://atri5g.agri-twin.tw:9001,����Ş��ָ�]ϵ�y
-http://103.124.72.235:80,IIS Windows Server
-http://103.124.72.179:80,401 Authorization Required
-http://103.124.72.238:80,Pathology Platform
-http://103.124.72.243:80,Open Data Cube
-http://103.124.72.228:80,404 Not Found
-http://103.124.72.231:80,Apache2 Ubuntu Default Page: It works
-http://103.124.72.126:80,����Ş��ָ�]ϵ�y
-http://103.124.72.126:8888,Jupyter Server
-http://103.124.72.171:80,Welcome to nginx!
-http://103.124.72.118:80,IIS Windows Server
-http://103.124.72.147:80,Apache2 Ubuntu Default Page: It works
-http://103.124.72.159:80,Welcome to nginx!
-http://103.124.72.16:80,Apache2 Ubuntu Default Page: It works
-http://103.124.72.199:80,IIS Windows Server 199
-http://sh-dev.illumina.nchc.org.tw:80,Apache2 Ubuntu Default Page: It works
-http://startup.taiwan.gov.tw:80,    AI Taiwan
-http://smart.taiwan.gov.tw:80,    DIGI? Taiwan
-http://digi.taiwan.gov.tw:80,    DIGI? Taiwan
+http://bid.js.sgcc.com.cn,招标管理系统网站
+http://pmos.tj.sgcc.com.cn,新一代电力交易平台
+http://ess.sc.sgcc.com.cn,国网四川省电力公司e链国网一站式服务平台
+http://pmos.md.sgcc.com.cn,新一代电力交易平台
+http://pmos.sc.sgcc.com.cn,请使用HTTPS进行访问
+http://pmos.sx.sgcc.com.cn,新一代电力交易平台
+http://pmos.sd.sgcc.com.cn,新一代电力交易平台
+http://idaas-idp.sgcc.com.cn,idaas
+http://pmos.sgcc.com.cn,新一代电力交易平台
+http://rmt.ha.sgcc.com.cn,网站内容发布系统
+http://ofj.ln.sgcc.com.cn:20000,Welcome to nginx!
+http://csc-open.sgcc.com.cn,410 Gone
+http://eip.sgcc.com.cn:9000,网康下一代防火墙
+http://eip.sgcc.com.cn:8000,Coremail
+https://ess.sn.sgcc.com.cn:4443,Error
+http://g.rmt.sc.sgcc.com.cn,出错了
+http://pgjt-mam.sgcc.com.cn:8086,在线竞聘系统
+http://cdp.hn.sgcc.com.cn:10080,基建全过程综合数字化管理平台
+http://m.sgcc.com.cn,数字身份
+http://jxdlrmt.jx.sgcc.com.cn:8888,resource
+http://dl-dns1.sgcc.com.cn:7000,用户登录
+http://dps.cq.sgcc.com.cn:10080,Welcome to nginx!
+https://zgzj.hn.sgcc.com.cn:28080,职工之家
+http://snwz.sn.sgcc.com.cn,智慧物资调配平台(MAP)
+http://www.sx.sgcc.com.cn,国网山西省电力公司
+http://www.ln.sgcc.com.cn,国家电网-辽宁省电力有限公司
+http://hbewz.hb.sgcc.com.cn:8890,Postfix Admin - hbewz.hb.sgcc.com.cn:8890
+http://dwyzt.hb.sgcc.com.cn,资源共享服务平台
+http://ewz.xj.sgcc.com.cn,e物资主页面
+http://zhny.hn.sgcc.com.cn:18080,智慧能源e管家
+http://kaoshi.sgcc.com.cn:8010,SANGFOR终端检测响应平台
+http://sxpmws.sx.sgcc.com.cn,山西电力市场智慧服务平台
+https://pmos.ln.sgcc.com.cn,新一代电力交易平台
+http://star.sgcc.com.cn,双创线上平台
+https://rmt.xj.sgcc.com.cn,
+https://pmos.qh.sgcc.com.cn,新一代电力交易平台
+https://pmos.jx.sgcc.com.cn,新一代电力交易平台
+http://www.sn.sgcc.com.cn,国网陕西省电力有限公司
+https://pmos.gs.sgcc.com.cn,新一代电力交易平台
+http://ebook.cepp.sgcc.com.cn,Document
+http://rmt-mediax.fj.sgcc.com.cn,加载中...
+https://pmos.sn.sgcc.com.cn,新一代电力交易平台
+https://pmos.bj.sgcc.com.cn,新一代电力交易平台
+http://www.star.sgcc.com.cn,双创线上平台
+http://pdsm.sgcc.com.cn:8888,NetScaler Gateway
+https://pmos.hl.sgcc.com.cn,新一代电力交易平台
+https://pmos.hn.sgcc.com.cn,新一代电力交易平台
+http://ess.md.sgcc.com.cn,国网内蒙古东部电力有限公司网上供应商服务大厅
+http://ess.jx.sgcc.com.cn:18080,国网江西电力“e链国网”物资一站式服务平台
+https://bosp.sgm.sgcc.com.cn,欢迎访问 国网物资运营服务平台
+http://idaas-control.sgcc.com.cn:8000,国网信通
+http://newpmos.hb.sgcc.com.cn:9999,购电管理交互系统
+http://pmos.he.sgcc.com.cn,新一代电力交易平台
+https://pmos.cq.sgcc.com.cn,新一代电力交易平台
+https://zgzj.hn.sgcc.com.cn,职工之家
+http://newmail.sgcc.com.cn,国网外网邮件
+http://weixin.fj.sgcc.com.cn,温馨提示
+http://mdrmt.sgcc.com.cn,Loading...
+http://mdrmt.sgcc.com.cn:18080,Loading...
+https://panecp.sgcc.com.cn,投标文件存储系统
+http://csc-apm-simu.sgcc.com.cn:18080,欢迎访问
+http://scpx.sc.sgcc.com.cn,国网四川省电力公司e链国网一站式服务平台
+http://ess.bj.sgcc.com.cn,国网北京电力一站式服务平台
+http://jdrm.sx.sgcc.com.cn,统一应用开发平台
+http://cdp.md.sgcc.com.cn,基建全过程综合数字化管理平台
+http://idaas-control.sgcc.com.cn,idaas
+https://wzgs.he.sgcc.com.cn:18000,
+https://pmos.jl.sgcc.com.cn,新一代电力交易平台
+http://sgwpdm.ah.sgcc.com.cn:18080,安徽电网全时空数字调度平台
+http://ltxdlxy.sgcc.com.cn:8010,SANGFOR终端检测响应平台
+http://sgwpdm.ah.sgcc.com.cn:18001,用户登录
+http://sgwpdm.ah.sgcc.com.cn:8001,502 Bad Gateway
+http://ewz.ha.sgcc.com.cn:18081,河南e物资
+https://jdjygateway.xj.sgcc.com.cn:7080,创新工作室-登录
+http://xbdlgw.nw.sgcc.com.cn:8443,国家电网公司-信息外网邮件系统
+http://xbdlgw.nw.sgcc.com.cn:9443,SSLVPN
+http://map.sgcc.com.cn,思极地图
+http://ess.hn.sgcc.com.cn:10443,e链国网
+http://i.sgcc.com.cn:8000,用户登录
+https://newpmos.hb.sgcc.com.cn,新一代电力交易平台
+http://gwzsdl.js.sgcc.com.cn,招标管理系统网站
+http://cdp.jibei.sgcc.com.cn:10080,基建全过程综合数字化管理平台
+http://gwzsdl.js.sgcc.com.cn:8081,
+https://map-bjdc.sgcc.com.cn,思极地图
+http://osg-omg-simu.sgcc.com.cn:9000,400 The plain HTTP request was sent to HTTPS port
+https://sgcism.sgcc.com.cn,Welcome to nginx!
+http://dl-dns2.sgcc.com.cn:8010,NetScaler Gateway
+http://zhth.sgga.sgcc.com.cn:28080,400 The plain HTTP request was sent to HTTPS port
+https://i.sgcc.com.cn:10443,Error
+http://gwzsdl.xj.sgcc.com.cn:18081,400 The plain HTTP request was sent to HTTPS port
+http://zhth.sgga.sgcc.com.cn:10443,400 The plain HTTP request was sent to HTTPS port
+http://mamhn.sgcc.com.cn:18081,400 The plain HTTP request was sent to HTTPS port
+http://wlxxrcpj.sgtc.sgcc.com.cn,Welcome to nginx!
+http://csc-static.sgcc.com.cn:9002,400 The plain HTTP request was sent to HTTPS port
+https://i.sgcc.com.cn:18080,Welcome to nginx!
+http://mam.tj.sgcc.com.cn:10443,错误
+http://ltxxcx.sgcc.com.cn:18000,欢迎访问
+http://wzgl.hn.sgcc.com.cn:10080,e链国网
+http://csc-static.sgcc.com.cn:6443,400 The plain HTTP request was sent to HTTPS port
+http://wzgl.hn.sgcc.com.cn:10443,e链国网
+http://csc-static.sgcc.com.cn:8091,400 The plain HTTP request was sent to HTTPS port
+http://cns.tj.sgcc.com.cn,
+http://csc-static.sgcc.com.cn:4430,400 The plain HTTP request was sent to HTTPS port
+http://rmty.sgcc.com.cn,全媒体平台
+http://sgccmanager.sgcc.com.cn:8001,欢迎访问
+http://efin.sgcc.com.cn:8020,电e金服
+http://sgwpdmnew.tj.sgcc.com.cn:10080,Welcome to nginx!
+http://cdp.gs.sgcc.com.cn:10080,基建全过程综合数字化管理平台
+http://osg-opentower.sgcc.com.cn:10443,400 The plain HTTP request was sent to HTTPS port
+http://sgccmanager.sgcc.com.cn:8443,北京电力交易中心电力交易平台
+https://dns-nari.sgcc.com.cn:7443,405 Method Not Allowed
+http://www.cepp.sgcc.com.cn,中国电力出版社-首页
+https://osg-push-simu.sgcc.com.cn,Error
+http://admin.rmt.sc.sgcc.com.cn,出错了
+http://sgcis.sn.sgcc.com.cn,基建全过程综合数字化管理平台
+https://www.f.sgcc.com.cn,正在加载中...
+http://web.baas.ha.sgcc.com.cn,网站内容发布系统
+http://csc-open.sgcc.com.cn:80,410 Gone
+https://bosp.sgm.sgcc.com.cn:443,欢迎访问 国网物资运营服务平台
+http://pmos.jibei.sgcc.com.cn,新一代电力交易平台
+https://pmos.cq.sgcc.com.cn:443,新一代电力交易平台
+https://zgzj.hn.sgcc.com.cn:443,职工之家
+https://panecp.sgcc.com.cn:443,投标文件存储系统
+https://osg-apm-simu.sgcc.com.cn,Error
+http://snwz.sn.sgcc.com.cn:80,智慧物资调配平台(MAP)
+http://www.ah.sgcc.com.cn:8000,智慧赋能系统
+http://www.jibei.sgcc.com.cn,国网冀北电力有限公司
+http://www.jl.sgcc.com.cn,国网吉林省电力有限公司
+https://scm3200.sgcc.com.cn,i国网
+http://pmos.xj.sgcc.com.cn:20080,400 The plain HTTP request was sent to HTTPS port
+http://bddy.nc.sgcc.com.cn,保定电力职业技术学院
+http://www.zj.sgcc.com.cn,
+http://www.cc.sgcc.com.cn,国家电网有限公司华中分部
+http://www.bj.sgcc.com.cn,国网北京市电力公司
+http://www.xj.sgcc.com.cn,新疆电力有限公司网站
+http://www.js.sgcc.com.cn,国网江苏省电力有限公司
+http://www.nx.sgcc.com.cn,宁夏电力有限公司-国家电网
+http://www.cq.sgcc.com.cn,国家电网-国网重庆市电力公司
+http://www.he.sgcc.com.cn,河北省电力有限公司-国家电网
+http://www.hn.sgcc.com.cn,国网湖南省电力有限公司
+http://www.ah.sgcc.com.cn,国网安徽省电力公司-国家电网
+http://zhaopin.sgcc.com.cn,
+http://www.tj.sgcc.com.cn,国网天津市电力公司
+http://dwyzt.hb.sgcc.com.cn:80,资源共享服务平台
+http://ewz.xj.sgcc.com.cn:80,e物资主页面
+https://efin.sgcc.com.cn,电e金服
+http://ebook.cepp.sgcc.com.cn:80,Document
+http://sxpmws.sx.sgcc.com.cn:80,山西电力市场智慧服务平台
+http://ess.md.sgcc.com.cn:80,国网内蒙古东部电力有限公司网上供应商服务大厅
+http://rmt-mediax.fj.sgcc.com.cn:80,加载中...
+https://newpmos.hb.sgcc.com.cn:443,新一代电力交易平台
+http://newmail.sgcc.com.cn:80,国网外网邮件
+https://map-bjdc.sgcc.com.cn:443,思极地图
+https://pmos.jl.sgcc.com.cn:443,新一代电力交易平台
+http://www.sc.sgcc.com.cn,国家电网-国网四川省电力公司
+http://weixin.fj.sgcc.com.cn:80,温馨提示
+https://idaas-control.sgcc.com.cn:443,idaas
+http://mdrmt.sgcc.com.cn:80,Loading...
+https://sgcism.sgcc.com.cn:443,Welcome to nginx!
+http://idaas-control.sgcc.com.cn:80,idaas
+http://jdrm.sx.sgcc.com.cn:80,统一应用开发平台
+http://scpx.sc.sgcc.com.cn:80,国网四川省电力公司e链国网一站式服务平台
+http://ess.bj.sgcc.com.cn:80,国网北京电力一站式服务平台
+https://osg-push-simu.sgcc.com.cn:443,Error
+http://cdp.md.sgcc.com.cn:80,基建全过程综合数字化管理平台
+https://www.f.sgcc.com.cn:443,正在加载中...
+http://gwzsdl.js.sgcc.com.cn:80,招标管理系统网站
+https://gwzsdl.js.sgcc.com.cn:443,招标管理系统网站
+http://rmty.sgcc.com.cn:80,全媒体平台
+http://osg-95598.sgcc.com.cn:8999,400 The plain HTTP request was sent to HTTPS port
+http://osg-95598.sgcc.com.cn:9060,400 The plain HTTP request was sent to HTTPS port
+https://osg-apm-simu.sgcc.com.cn:443,Error
+http://wlxxrcpj.sgtc.sgcc.com.cn:80,Welcome to nginx!
+http://cns.tj.sgcc.com.cn:80,
+https://efin.sgcc.com.cn:443,电e金服
+http://admin.rmt.sc.sgcc.com.cn:80,出错了
+https://admin.rmt.sc.sgcc.com.cn:443,出错了
+https://scm3200.sgcc.com.cn:443,i国网
+http://web.baas.ha.sgcc.com.cn:80,网站内容发布系统
+http://sgcis.sn.sgcc.com.cn:80,基建全过程综合数字化管理平台
+http://bddy.nc.sgcc.com.cn:80,保定电力职业技术学院
+https://scden.sc.sgcc.com.cn:443,跳转...
+https://ess.he.sgcc.com.cn:18000,
+http://spam.sgcc.com.cn:8443,北京电力交易中心电力交易平台
+http://jmsq.tj.sgcc.com.cn:10443,错误
+https://osg-opentower.sgcc.com.cn:80,410 Gone
+https://cs.hl.sgcc.com.cn:443,
+https://mzzg.sh.sgcc.com.cn:443,ERROR
+http://spam.sgcc.com.cn:8001,欢迎访问
+https://rmt.xj.sgcc.com.cn:443,
+https://yyfw.cq.sgcc.com.cn:10443,sso_ui
+http://mx1.zj.sgcc.com.cn:8001,欢迎访问
+http://mx1.zj.sgcc.com.cn:8443,北京电力交易中心电力交易平台
+https://zhny.hn.sgcc.com.cn:443,智慧能源e管家
+http://spam.sn.sgcc.com.cn:8001,欢迎访问
+http://mail.sc.sgcc.com.cn,请使用HTTPS进行访问
+http://spam.sn.sgcc.com.cn:8443,北京电力交易中心电力交易平台
+https://netbank.cpfc.sgcc.com.cn:443,中国电力财务有限公司企业网银
+http://csc-95598.sgcc.com.cn,410 Gone
+http://osg-open.sgcc.com.cn,410 Gone
+http://portal.jl.sgcc.com.cn,国网吉林省电力有限公司
+http://www.ydthlife.sgcc.com.cn,英大人寿-首页
+http://osg-service.sgcc.com.cn,场景1
+http://lpromis.jx.sgcc.com.cn,江西电力职业技术学院官方网站
+http://epc.cet.sgcc.com.cn,Welcome to nginx!
+http://osg-apm.sgcc.com.cn,410 Gone
+http://login.rmt.sc.sgcc.com.cn,国网四川省电力公司融媒平台
+http://osg-chat.sgcc.com.cn,410 Gone
+http://osg-service-simu.sgcc.com.cn,410 Gone
+http://osg-web-simu.sgcc.com.cn,410 Gone
+http://sgnec.sgcc.com.cn,国网新能源云
+http://aikf.f.sgcc.com.cn,正在加载中...
+http://job.sgepri.sgcc.com.cn,南瑞集团官方招聘网站
+https://www.gk.sgcc.com.cn,Welcome to nginx!
+http://ydvip.sgcc.com.cn,正在加载中...
+http://osg-open-simu.sgcc.com.cn,410 Gone
+http://osg-base.sgcc.com.cn,场景1
+http://osg-wechat.sgcc.com.cn,Error
+http://wlaqxcz2020bei.sgcc.com.cn,TestPage184
+http://idaas.sgcc.com.cn,idaas
+http://osg-service-simu.sgcc.com.cn:28002,400 The plain HTTP request was sent to HTTPS port
+https://mamsn.sgcc.com.cn,502 Bad Gateway
+http://www.sd.sgcc.com.cn,国家电网-国网山东省电力公司
+http://id.sgcc.com.cn:18088,数字身份
+http://zbcg.jibei.sgcc.com.cn:10081,招标采购云平台
+http://www.ydjrw.sgcc.com.cn,正在加载中...
+http://www.evs.sgcc.com.cn,e充电
+http://hospital.nc.sgcc.com.cn,北京电力医院
+http://testwc.jx.sgcc.com.cn,国网江西电力
+http://xdzhgyl.qh.sgcc.com.cn,substance-html
+http://mail.cpfc.sgcc.com.cn,国网外网邮件
+http://mail.fj.sgcc.com.cn,国网外网邮件
+http://mail.sgm.sgcc.com.cn,国网外网邮件
+http://mail.sgeri.sgcc.com.cn,国网外网邮件
+http://mail.sh.sgcc.com.cn,国网外网邮件
+http://mail.sgepri.sgcc.com.cn,国网外网邮件
+http://www.md.sgcc.com.cn,国家电网-国网内蒙古东部电力有限公司
+http://www.qh.sgcc.com.cn,青海省电力公司-国家电网
+http://www.ydfut.sgcc.com.cn,web
+https://ydxy.cq.sgcc.com.cn:10443,
+http://mdgdfw.sgcc.com.cn,Welcome to nginx!
+https://dangjian.sgcc.com.cn:443,Error
+http://osg-open.sgcc.com.cn:10443,400 The plain HTTP request was sent to HTTPS port
+http://osg-open.sgcc.com.cn:80,410 Gone
+https://dlhb.hn.sgcc.com.cn:443,电力环保智慧监管平台
+https://weixin.xj.sgcc.com.cn,502 Bad Gateway
+http://zbcg.jibei.sgcc.com.cn,招标采购云平台
+https://dangjian.sgcc.com.cn,Error
+https://netbank.cpfc.sgcc.com.cn,中国电力财务有限公司企业网银
+https://dlhb.hn.sgcc.com.cn,电力环保智慧监管平台
+http://jdjythird.xj.sgcc.com.cn:80,疆电家园
+https://jdjymobile.xj.sgcc.com.cn:7080,创新工作室-登录
+https://jdjythird.xj.sgcc.com.cn:7080,创新工作室-登录
+https://jdjyim.xj.sgcc.com.cn:7080,创新工作室-登录
+http://jdjyboss.xj.sgcc.com.cn:80,502 Bad Gateway
+https://jdjyboss.xj.sgcc.com.cn:7080,创新工作室-登录
+https://zhny.hn.sgcc.com.cn,智慧能源e管家
+http://jdjyemps.xj.sgcc.com.cn,职工综合服务平台
+http://jdjyboss.xj.sgcc.com.cn,502 Bad Gateway
+http://jdjythird.xj.sgcc.com.cn,疆电家园
+http://jdjyemps.xj.sgcc.com.cn:80,职工综合服务平台
+https://jdjyemps.xj.sgcc.com.cn:7080,创新工作室-登录
+http://api.rmt.ha.sgcc.com.cn,网站内容发布系统
+http://ctp.epri.sgcc.com.cn,任安书!
+http://jjqgc.xz.sgcc.com.cn,基建全过程综合数字化管理平台
+http://ess.xj.sgcc.com.cn,502 Bad Gateway
+http://ewz.bj.sgcc.com.cn,外网--单据电子化-登录
+http://sgwpdm.ha.sgcc.com.cn,基建全过程综合数字化管理平台
+https://mam.sn.sgcc.com.cn:443,502 Bad Gateway
+http://www.gwnxdlwsyyt.nx.sgcc.com.cn,502 Bad Gateway
+http://mail.sgm.sgcc.com.cn:80,国网外网邮件
+https://mail.sgm.sgcc.com.cn:443,国网外网邮件
+http://mail.fj.sgcc.com.cn:80,国网外网邮件
+https://mail.fj.sgcc.com.cn:443,国网外网邮件
+http://portal.jl.sgcc.com.cn:80,国网吉林省电力有限公司
+http://map.sgcc.com.cn:9000,400 The plain HTTP request was sent to HTTPS port
+https://mail.sh.sgcc.com.cn:443,国网外网邮件
+https://map.sgcc.com.cn:443,思极地图
+http://mail.sh.sgcc.com.cn:80,国网外网邮件
+http://map.sgcc.com.cn:80,思极地图
+http://osg-base.sgcc.com.cn:80,场景1
+https://aikf.f.sgcc.com.cn:443,正在加载中...
+http://osg-base.sgcc.com.cn:10443,400 The plain HTTP request was sent to HTTPS port
+https://idaas-idp.sgcc.com.cn:443,idaas
+http://idaas-idp.sgcc.com.cn:80,idaas
+https://mail.cpfc.sgcc.com.cn:443,国网外网邮件
+http://mail.cpfc.sgcc.com.cn:80,国网外网邮件
+http://wlaqxcz2020bei.sgcc.com.cn:8888,安全入口校验失败
+http://wlaqxcz2020bei.sgcc.com.cn:80,TestPage184
+https://job.sgepri.sgcc.com.cn:443,南瑞集团官方招聘网站
+http://mail.sgepri.sgcc.com.cn:80,国网外网邮件
+https://mail.sgepri.sgcc.com.cn:443,国网外网邮件
+https://igw.sgcc.com.cn:443,i国网
+https://ydvip.sgcc.com.cn:443,正在加载中...
+http://osg-open-simu.sgcc.com.cn:80,410 Gone
+http://osg-open-simu.sgcc.com.cn:10443,400 The plain HTTP request was sent to HTTPS port
+http://scfk.sgcc.com.cn:4430,400 The plain HTTP request was sent to HTTPS port
+http://osg-wechat.sgcc.com.cn:5555,400 The plain HTTP request was sent to HTTPS port
+https://login.rmt.sc.sgcc.com.cn:443,国网四川省电力公司融媒平台
+http://login.rmt.sc.sgcc.com.cn:80,国网四川省电力公司融媒平台
+http://login.rmt.sc.sgcc.com.cn:8080,国网四川省电力公司融媒平台
+https://osg-service-simu.sgcc.com.cn:443,阻断页面
+http://osg-service-simu.sgcc.com.cn:10443,400 The plain HTTP request was sent to HTTPS port
+https://mail.sgeri.sgcc.com.cn:443,国网外网邮件
+http://mail.sgeri.sgcc.com.cn:80,国网外网邮件
+http://osg-service-simu.sgcc.com.cn:80,410 Gone
+http://qgb.sgcc.com.cn:8089,
+https://qgb.sgcc.com.cn:443,
+http://sgnec.sgcc.com.cn:80,国网新能源云
+http://www.gswz.gs.sgcc.com.cn:9001,500 Internal Server Error
+https://xdzhgyl.qh.sgcc.com.cn:443,substance-html
+http://xdzhgyl.qh.sgcc.com.cn:80,substance-html
+http://osg-wechat.sgcc.com.cn:80,Error
+http://www.gwnxdlwsyyt.nx.sgcc.com.cn:80,502 Bad Gateway
+http://www.ah.sgcc.com.cn:7001,
+http://www.ah.sgcc.com.cn:18081,文档已移动
+https://osg-wechat.sgcc.com.cn:443,Error
+http://osg-chat.sgcc.com.cn:80,410 Gone
+https://osg-web-simu.sgcc.com.cn:443,Error
+http://osg-web-simu.sgcc.com.cn:80,410 Gone
+https://mamsc.sgcc.com.cn:443,502 Bad Gateway
+https://idaas.sgcc.com.cn:443,idaas
+http://osg-web-simu.sgcc.com.cn:10443,400 The plain HTTP request was sent to HTTPS port
+https://mamsn.sgcc.com.cn:443,502 Bad Gateway
+http://osg-web.sgcc.com.cn:5555,400 The plain HTTP request was sent to HTTPS port
+http://idaas.sgcc.com.cn:80,idaas
+http://www.ah.sgcc.com.cn:80,国网安徽省电力公司-国家电网
+http://epc.cet.sgcc.com.cn:80,Welcome to nginx!
+https://osg-chat.sgcc.com.cn:443,410 Gone
+http://osg-static-simu.sgcc.com.cn:8443,400 The plain HTTP request was sent to HTTPS port
+http://osg-web.sgcc.com.cn:8443,400 The plain HTTP request was sent to HTTPS port
+http://ydvip.sgcc.com.cn:80,正在加载中...
+http://sgnec.sgcc.com.cn:9090,齐治堡垒机
+http://osg-wechat.sgcc.com.cn:8093,400 The plain HTTP request was sent to HTTPS port
+http://csc-service.sgcc.com.cn,410 Gone
+http://spam.zj.sgcc.com.cn:8001,欢迎访问
+http://osg-95598.sgcc.com.cn:88,Error
+http://osg-wechat.sgcc.com.cn:18089,400 The plain HTTP request was sent to HTTPS port
+http://osg-wechat.sgcc.com.cn:9060,400 The plain HTTP request was sent to HTTPS port
+http://osg-web.sgcc.com.cn:5000,Error
+http://iscsso.sgcc.com.cn:8000,Coremail
+http://mam.sgcc.com.cn:8000,网康下一代防火墙
+http://ecp.sgcc.com.cn/ecp2.0/,国家电网新一代电子商务平台
+http://osg-wechat.sgcc.com.cn:88,Error
+http://osg-wechat.sgcc.com.cn:8443,400 The plain HTTP request was sent to HTTPS port
+http://sgcis.sgcc.com.cn:8070,齐治堡垒机
+http://osg-web.sgcc.com.cn:8093,400 The plain HTTP request was sent to HTTPS port
+http://osg-web.sgcc.com.cn:8300,400 The plain HTTP request was sent to HTTPS port
+http://osg-web.sgcc.com.cn:88,Error
+http://ecp.sgcc.com.cn/ecp2.0/portal/#/,国家电网新一代电子商务平台
+http://osg-95598.sgcc.com.cn:8093,400 The plain HTTP request was sent to HTTPS port
+http://osg-95598.sgcc.com.cn:5555,400 The plain HTTP request was sent to HTTPS port
+http://sgcis.sgcc.com.cn:8000,Coremail
+http://map.sgcc.com.cn:18089,400 The plain HTTP request was sent to HTTPS port
+http://iscsso.sgcc.com.cn:8010,齐治堡垒机
+http://pmda.ccoa.sgcc.com.cn:8010,齐治堡垒机
+http://osg-95598.sgcc.com.cn:8443,400 The plain HTTP request was sent to HTTPS port
+http://osg-wechat.sgcc.com.cn:9043,400 The plain HTTP request was sent to HTTPS port
+http://pmos.sgcc.com.cn:10080,北京电力交易中心电力交易平台
+http://spam.zj.sgcc.com.cn:8443,北京电力交易中心电力交易平台
+http://osg-web.sgcc.com.cn:9060,400 The plain HTTP request was sent to HTTPS port
+http://osg-wechat.sgcc.com.cn:5000,Error
+http://osg-95598.sgcc.com.cn:8300,400 The plain HTTP request was sent to HTTPS port
+http://osg-95598.sgcc.com.cn:5000,Error
+http://osg-95598.sgcc.com.cn:18089,400 The plain HTTP request was sent to HTTPS port
+http://osg-web.sgcc.com.cn:9043,400 The plain HTTP request was sent to HTTPS port
+http://zhaopin.sgcc.com.cn/sgcchr/static/home.html,
+http://osg-omg-simu.sgcc.com.cn:18089,400 The plain HTTP request was sent to HTTPS port
+http://osg-web.sgcc.com.cn:18089,400 The plain HTTP request was sent to HTTPS port
+http://osg-wechat.sgcc.com.cn:8300,400 The plain HTTP request was sent to HTTPS port
+http://osg-95598.sgcc.com.cn:9043,400 The plain HTTP request was sent to HTTPS port
+http://osg-95598.sgcc.com.cn,Error
+http://ewz.bj.sgcc.com.cn:80,外网--单据电子化-登录
+https://qgb.sgcc.com.cn,
+https://sgnec.sgcc.com.cn:443,国网新能源云
