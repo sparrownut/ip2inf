@@ -4,6 +4,8 @@ import json
 
 import requests
 
+import checkurl
+from tools.mail import sendmail
 # import checkurl
 from utils import print_suc, print_inf
 
@@ -18,9 +20,9 @@ def get_root_domain(domain: str):
 
 
 def get_from_fofa(domain: str):
-    input = base64.b64encode(bytes(('domain=' + domain).encode())).decode()
+    inp = base64.b64encode(bytes(('domain=' + domain).encode())).decode()
     api = 'https://fofa.info/api/v1/search/all?email=om2bg0tjsptuh7weetboc2t7vvzk@open_wechat&key' \
-          '=fff73dae777ddbcf971bb5e85f2ae3aa&size=10000&qbase64=' + input
+          '=fff73dae777ddbcf971bb5e85f2ae3aa&size=10000&qbase64=' + inp
     # print(api)
     text = requests.get(url=api).text
     res2 = json.loads(text)['results']
@@ -31,7 +33,7 @@ def get_from_fofa(domain: str):
 
 
 def url2domain(url: str):
-    domain = ''
+    # domain = ''
     url = url.replace('http', '')
     url = url.replace('https', '')
     url = url.replace('://', '')
@@ -68,11 +70,7 @@ if __name__ == '__main__':  # 从文件夹读取url列表并批量扩张资产�
             res_output.write(itt[0] + '\n')
             reslist.append(itt)
     print_suc('扩张完毕')
-    # print_inf('检查可用性中')
-    # output_res_list = []
-    #
-    # for it in reslist:
-    #     for itt in checkurl.check(it).run():
-    #         output_res_list.append(itt)
-    # for it in output_res_list:
-    #     res_output.write(it + '\n')
+    res_output.close()
+    print_inf('检查可用性中')
+    checkurl.check('output_dir/output.txt').run()
+    sendmail(recv=['2928109164@qq.com'], content='资产扩张完成')

@@ -20,7 +20,7 @@ class check():
     def __init__(self, file_input: str):
         self.f = open(file_input, 'r', encoding='gbk').readlines()
 
-    threadn_max = 20  # 线程数
+    threadn_max = 10  # 线程数
     debug = False
 
     threadn = 0
@@ -139,12 +139,16 @@ class check():
                     # res += "%s,%s,%s" % (url, r[0], geturlres) + '\n'
                     # print_suc("%s,%s,%s" % (url, r[0], geturlres))
                     # urls += "%s,%s,%s\n" % (url, r[0], geturlres)
-                    if '404' not in r[0] and '403' not in r[0]:
+                    if not isuse and ('Bad Request'.upper() in str(r[0]).upper() or 'https'.upper() in str(r[0]).upper()):
+                        self.trytolink(u=ur.replace('http://','https://'),isuse=True)
+                    elif '404' not in r[0] and '403' not in r[0]:
                         self.res += "%s,%s" % (str(ur), r[0]) + '\n'
                         print_suc("%s,%s" % (str(ur), r[0]))
                         self.urls += "%s,%s\n" % (str(ur), r[0])
                         self.urls_i += 1  # 线程数控制
                         self.thr_i += 1
+                    else:
+                        print_err('%s(%s/%s)' % (ur, self.thr_i, len(self.threads)))
                     break
             self.threadn -= 1
             return True
@@ -212,17 +216,17 @@ class check():
         # print(res)
         print(self.urls)
         print_suc('导出weburl%s条' % str(self.urls_i))
-        # print_suc('导出可爆破的登录界面url%s条' % str(uprun_i))
-        # print_suc('导出宝塔面板的url%s条' % str(bts_i))
-        # open('all_web_urls.csv', 'w+', encoding='utf-8').write(urls)
-        # open('login_urls.txt', 'w+').write(uprun)
-        # open('bt_urls.txt', 'w+').write(bts)
-        # print_suc('导出带jsp的url%s条' % str(jsps_i))
-        # open('jsp_urls.txt', 'w+').write(jsps)
-        # print_suc('导出带asp的url%s条' % str(asps_i))
-        # open('asp_urls.txt', 'w+').write(asps)
-        # print_suc('导出带structs2的url%s条' % str(structs2s_i))
-        # open('structs2_urls.txt', 'w+').write(structs2s)
+        print_suc('导出可爆破的登录界面url%s条' % str(self.uprun_i))
+        print_suc('导出宝塔面板的url%s条' % str(self.bts_i))
+        open('all_web_urls.csv', 'w+', encoding='utf-8').write(self.urls)
+        open('login_urls.txt', 'w+').write(self.uprun)
+        open('bt_urls.txt', 'w+').write(self.bts)
+        print_suc('导出带jsp的url%s条' % str(self.jsps_i))
+        open('jsp_urls.txt', 'w+').write(self.jsps)
+        print_suc('导出带asp的url%s条' % str(self.asps_i))
+        open('asp_urls.txt', 'w+').write(self.asps)
+        print_suc('导出带structs2的url%s条' % str(self.structs2s_i))
+        open('structs2_urls.txt', 'w+').write(self.structs2s)
         return self.res
 
 
